@@ -12,4 +12,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CredenceHamby&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=CredenceHamby&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=NEO....;HOW+ARE+YOU+NEO....)](https://git.io/typing-svg)
