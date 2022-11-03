@@ -11,6 +11,5 @@
 [![](https://img.shields.io/badge/Ark-NOT%20ACTIVE-red?style=for-the-badge)](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CredenceHamby&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=CredenceHamby)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=CredenceHamby)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CredenceHamby)](https://git.io/streak-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=CredenceHamby)](https://github.com/ryo-ma/github-profile-trophy)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=NEO....;HOW+ARE+YOU+NEO....)](https://git.io/typing-svg)
