@@ -10,5 +10,5 @@
 [![](https://img.shields.io/badge/Factorio-NOT%20ACTIVE-red?style=for-the-badge)](https://store.steampowered.com/app/427520/Factorio/)
 [![](https://img.shields.io/badge/Ark-NOT%20ACTIVE-red?style=for-the-badge)](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CredenceHamby&count_private=true&show_icons=true&include_all_commits=true)](#)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CredenceHamby&count_private=true&show_icons=true)](#)
 [![trophy](https://github-profile-trophy.vercel.app/?username=CredenceHamby&column=4)](https://github.com/ryo-ma/github-profile-trophy)
