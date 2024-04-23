@@ -1,5 +1,3 @@
-No longer doing any DU scripts. all scripts i have made are deleted. Dont want anything else to do with the game or its community. Dont ask. 
-
 ## Development
 ![](https://komarev.com/ghpvc/?username=locuraDU&style=for-the-badge)
 [![](https://img.shields.io/badge/Dual%20Universe-ACTIVE-green?style=for-the-badge)](https://store.steampowered.com/app/2000270/Dual_Universe/)
